@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Madhumati",
+        "department": "UCCIS",
+        "role": "Primary Builder"
+    },
+    {
+        "id": 2,
+        "name": "Ankita",
+        "department": "Master DB",
+        "role": "Database Lead"
+    },
+    {
+        "id": 3,
+        "name": "Nupur",
+        "department": "MDU",
+        "role": "Dataset Supervisor"
+    },
+    {
+        "id": 4,
+        "name": "Soham",
+        "department": "Runtime",
+        "role": "Integration Lead"
+    }
+]

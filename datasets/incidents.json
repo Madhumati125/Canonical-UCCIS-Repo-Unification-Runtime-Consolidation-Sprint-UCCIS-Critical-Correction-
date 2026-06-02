@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Overflowing Waste Bin",
+        "severity": "HIGH",
+        "status": "OPEN"
+    },
+    {
+        "id": 2,
+        "title": "Water Pipeline Leakage",
+        "severity": "MEDIUM",
+        "status": "OPEN"
+    },
+    {
+        "id": 3,
+        "title": "Major Traffic Congestion",
+        "severity": "CRITICAL",
+        "status": "OPEN"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "ward": "Ward-01",
+            "severity": "HIGH",
+            "count": 15
+        },
+        {
+            "ward": "Ward-02",
+            "severity": "CRITICAL",
+            "count": 7
+        },
+        {
+            "ward": "Ward-03",
+            "severity": "MEDIUM",
+            "count": 4
+        }
+    ]
+}

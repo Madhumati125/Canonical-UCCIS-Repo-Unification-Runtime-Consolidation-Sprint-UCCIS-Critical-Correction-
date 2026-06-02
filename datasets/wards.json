@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Ward-01",
+        "zone": "North"
+    },
+    {
+        "id": 2,
+        "name": "Ward-02",
+        "zone": "North"
+    },
+    {
+        "id": 3,
+        "name": "Ward-03",
+        "zone": "South"
+    },
+    {
+        "id": 4,
+        "name": "Ward-04",
+        "zone": "East"
+    },
+    {
+        "id": 5,
+        "name": "Ward-05",
+        "zone": "West"
+    }
+]

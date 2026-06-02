@@ -1,0 +1,22 @@
+[
+    {
+        "event_type": "SIGNAL_RECEIVED",
+        "status": "SUCCESS"
+    },
+    {
+        "event_type": "SIGNAL_VALIDATED",
+        "status": "SUCCESS"
+    },
+    {
+        "event_type": "ESCALATION_TRIGGERED",
+        "status": "SUCCESS"
+    },
+    {
+        "event_type": "DASHBOARD_UPDATED",
+        "status": "SUCCESS"
+    },
+    {
+        "event_type": "REPLAY_RECORDED",
+        "status": "SUCCESS"
+    }
+]

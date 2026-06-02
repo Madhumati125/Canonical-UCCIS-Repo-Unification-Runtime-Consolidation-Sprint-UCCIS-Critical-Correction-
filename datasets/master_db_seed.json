@@ -1,0 +1,17 @@
+{
+    "wards": 15,
+    "operators": 10,
+    "incidentCategories": [
+        "WasteOverflow",
+        "WaterLeakage",
+        "TrafficCongestion",
+        "StreetLightFailure",
+        "DrainageBlockage"
+    ],
+    "escalationLevels": [
+        "LOW",
+        "MEDIUM",
+        "HIGH",
+        "CRITICAL"
+    ]
+}

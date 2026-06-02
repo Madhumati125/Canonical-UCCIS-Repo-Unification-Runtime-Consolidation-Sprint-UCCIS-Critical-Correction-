@@ -1,0 +1,37 @@
+[
+    {
+        "signal_type": "WasteOverflow",
+        "ward": "Ward-01",
+        "severity": "HIGH",
+        "payload": {
+            "fillLevel": 92,
+            "sensorId": "BIN-101"
+        }
+    },
+    {
+        "signal_type": "WaterLeakage",
+        "ward": "Ward-04",
+        "severity": "MEDIUM",
+        "payload": {
+            "pressure": 32,
+            "sensorId": "WL-201"
+        }
+    },
+    {
+        "signal_type": "StreetLightFailure",
+        "ward": "Ward-09",
+        "severity": "LOW",
+        "payload": {
+            "poleId": "SL-88"
+        }
+    },
+    {
+        "signal_type": "TrafficCongestion",
+        "ward": "Ward-07",
+        "severity": "CRITICAL",
+        "payload": {
+            "junction": "MG Road",
+            "density": 98
+        }
+    }
+]

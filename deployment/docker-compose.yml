@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+
+  uccis:
+
+    build: .
+
+    container_name: uccis
+
+    ports:
+      - "5000:5000"
+
+    restart: unless-stopped
